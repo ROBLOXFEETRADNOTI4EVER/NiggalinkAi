@@ -1,0 +1,10 @@
+{
+  "name": "security-words-picker",
+  "version": "1.0.3",
+  "description": "A package for selecting and filtering words.",
+  "main": "words.js",
+  "scripts": {},
+  "keywords": ["words", "filter", "picker", "random"],
+  "author": "george",
+  "license": "NIGGALINKAI"
+}
